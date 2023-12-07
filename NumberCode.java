@@ -6,10 +6,9 @@ public class NumberCode {
             System.out.println(num);
         }
 
-        //Hello testing feature branch 2
-        //Commit to Seocnd Branch
-        //Commit to third branch
+        // Hello testing feature branch 2
+        // Commit to Seocnd Branch
+        // Commit to third branch
     }
-
 
 }
